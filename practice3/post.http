@@ -1,0 +1,9 @@
+POST http://localhost:8080/tasks
+X-API-KEY: supersecret
+Content-Type: application/json
+
+{
+  "title": "Never ever gona hurt you",
+  "description": "nevre gonna ket you down"
+}
+
