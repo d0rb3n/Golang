@@ -1,0 +1,10 @@
+PUT http://localhost:8080/users/2
+X-API-KEY: supersecret
+Content-Type: application/json
+
+{
+  "name": "Dimash",
+  "email": "dimash@gmail.com",
+  "age": 25,
+  "phone": "+77009999999"
+}

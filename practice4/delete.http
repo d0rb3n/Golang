@@ -1,0 +1,3 @@
+DELETE http://localhost:8080/users/2
+X-API-KEY: supersecret
+Content-Type: application/json

@@ -1,0 +1,10 @@
+POST http://localhost:8080/users
+X-API-KEY: supersecret
+Content-Type: application/json
+
+{
+  "name": "Darkhan",
+  "email": "darkhan@example.com",
+  "age": 20,
+  "phone": "+77077777777"
+}
